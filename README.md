@@ -30,7 +30,7 @@ Esta es una aplicación desarrollada en React Native que implementa navegación 
 
 ### Uso
 - Abre la aplicación en tu emulador o dispositivo.
-- Usa la interfaz de la calculadora para realizar operaciones matemáticas básicas.
+- Usa la interfaz para incrementar y decrementar el contador mediante los botones disponibles en la pantalla de ajustes.
 
 ## Contacto
 
